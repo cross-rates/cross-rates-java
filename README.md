@@ -1,6 +1,9 @@
 # cross-rates-java
 ![](https://img.shields.io/maven-central/v/io.github.cross-rates/cross-rates-client)
 
+![](https://github.com/cross-rates/cross-rates-java/workflows/Tests/badge.svg)
+![](https://github.com/cross-rates/cross-rates-java/workflows/Release%20Stable/badge.svg)
+
 Java implementation for cross-rates functionality. Any fiat- and crypto-currency rates or transformation.
 
 ```
